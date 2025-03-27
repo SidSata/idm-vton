@@ -21,6 +21,10 @@ Star ⭐ us if you like it!
 ![teaser](assets/teaser.png)&nbsp;
 
 
+## Sid's notes
+
+Remove all occurences of cached_download from hf_hub
+gradio==4.43.0 needed
 
 ## Requirements
 
